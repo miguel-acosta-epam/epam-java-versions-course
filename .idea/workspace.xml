@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="adf8ce09-8732-4bca-ae77-a5a89505a66b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/epam-java-versions-course.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jmp-application/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jmp-application/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jmp-cloud-service-impl/src/main/java/com/epam/jmp/cloud/service/impl/CloudServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jmp-cloud-service-impl/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jmp-dto/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jmp-service-api/src/main/java/com/epam/jmp/service/api/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jmp-service-api/src/main/java/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/google-java-format.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/google-java-format.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jmp-cloud-bank-impl/src/main/java/com/epam/jmp/cloud/bank/impl/CloudBankImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/jmp-cloud-bank-impl/src/main/java/com/epam/jmp/cloud/bank/impl/CloudBankImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jmp-cloud-service-impl/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jmp-cloud-service-impl/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jmp-cloud-service-impl/src/main/java/com/epam/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jmp-dto/src/main/java/com/epam/jmp/dto/BankCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/jmp-dto/src/main/java/com/epam/jmp/dto/BankCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jmp-dto/src/main/java/com/epam/jmp/dto/CreditBankCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/jmp-dto/src/main/java/com/epam/jmp/dto/CreditBankCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jmp-dto/src/main/java/com/epam/jmp/dto/DebitBankCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/jmp-dto/src/main/java/com/epam/jmp/dto/DebitBankCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jmp-dto/src/main/java/com/epam/jmp/dto/Subscription.java" beforeDir="false" afterPath="$PROJECT_DIR$/jmp-dto/src/main/java/com/epam/jmp/dto/Subscription.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jmp-dto/src/main/java/com/epam/jmp/dto/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/jmp-dto/src/main/java/com/epam/jmp/dto/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jmp-service-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jmp-service-api/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jmp-service-api/src/main/java/com/epam/Main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="module-info" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2aAmtW2MgFxqnY6QBXNruVP72dW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "11"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Application" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.jmp.application.Main" />
+      <module name="jmp-application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="adf8ce09-8732-4bca-ae77-a5a89505a66b" name="Changes" comment="" />
+      <created>1703769975781</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703769975781</updated>
+    </task>
+    <servers />
+  </component>
+</project>
